@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Voronoi Treemap - Use Cases](README.md)
+* [Learning Drawing - Use Cases](README.md)
