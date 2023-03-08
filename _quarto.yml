@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Learning Voronoi Treemap - Use-Cases"
+  title: "Learning Drawing - Use-Cases"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - d3-voronoi-treemap.qmd
+      - line-drawing.qmd
 
 format:
   html:
