@@ -6,18 +6,18 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-# Master Voronoi Treemap
+# Master Drawing
 
 ```{mermaid}
 flowchart LR
-  A[Learner] --> B(UC: Master D3 Voronoi Treemap)
-  A[Learner] --> C(UC: Master XXX Computing)
-  A[Learner] --> D(UC: Master YYY Computing)
-  A[Learner] --> E(UC: Master ZZZ Computing)  
-  B --> F{Abstract UC: Master Voronoi Treemap}
-  C --> F{Abstract UC: Master Voronoi Treemap}
-  D --> F{Abstract UC: Master Voronoi Treemap}
-  E --> F{Abstract UC: Master Voronoi Treemap}
+  A[Learner] --> B(UC: Master Line Drawing)
+  A[Learner] --> C(UC: Master XXX Drawing)
+  A[Learner] --> D(UC: Master YYY Drawing)
+  A[Learner] --> E(UC: Master ZZZ Drawing)  
+  B --> F{Abstract UC: Master Drawing}
+  C --> F{Abstract UC: Master Drawing}
+  D --> F{Abstract UC: Master Drawing}
+  E --> F{Abstract UC: Master Drawing}
 ```
 
-See also "FoamTree" at <https://carrotsearch.com/foamtree/>
+See also "13 Types of Drawing Styles for Artistic Careers" at <https://www.indeed.com/career-advice/career-development/types-of-drawing>
