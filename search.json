@@ -16,7 +16,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Learning Voronoi Treemap - Use-Cases",
+    "title": "Learning Drawing - Use-Cases",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Drawing\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master Line Drawing)\n  A[Learner] --> C(UC: Master XXX Drawing)\n  A[Learner] --> D(UC: Master YYY Drawing)\n  A[Learner] --> E(UC: Master ZZZ Drawing)  \n  B --> F{Abstract UC: Master Drawing}\n  C --> F{Abstract UC: Master Drawing}\n  D --> F{Abstract UC: Master Drawing}\n  E --> F{Abstract UC: Master Drawing}\n\n\n\n\n\n\n\n\nSee also “13 Types of Drawing Styles for Artistic Careers” at https://www.indeed.com/career-advice/career-development/types-of-drawing"
   },
