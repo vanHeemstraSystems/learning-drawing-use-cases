@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-drawing-use-cases/sitemap.xml
+Sitemap: https://vanHeemstraSystems.github.io/learning-drawing-use-cases/sitemap.xml

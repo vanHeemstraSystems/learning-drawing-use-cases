@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
+    "objectID": "line-drawing.html",
+    "href": "line-drawing.html",
+    "title": "Line Drawing",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Learning Drawing - Use-Cases",
     "section": "",
-    "text": "Table of contents\n\nLearning Drawing - Use Cases"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Drawing\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Line Drawing)\n  A[Learner] --&gt; C(UC: Master XXX Drawing)\n  A[Learner] --&gt; D(UC: Master YYY Drawing)\n  A[Learner] --&gt; E(UC: Master ZZZ Drawing)  \n  B --&gt; F{Abstract UC: Master Drawing}\n  C --&gt; F{Abstract UC: Master Drawing}\n  D --&gt; F{Abstract UC: Master Drawing}\n  E --&gt; F{Abstract UC: Master Drawing}\n\n\n\n\n\n\nSee also “13 Types of Drawing Styles for Artistic Careers” at https://www.indeed.com/career-advice/career-development/types-of-drawing"
   },
   {
     "objectID": "about.html",
@@ -14,17 +21,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning Drawing - Use-Cases",
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Drawing\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master Line Drawing)\n  A[Learner] --> C(UC: Master XXX Drawing)\n  A[Learner] --> D(UC: Master YYY Drawing)\n  A[Learner] --> E(UC: Master ZZZ Drawing)  \n  B --> F{Abstract UC: Master Drawing}\n  C --> F{Abstract UC: Master Drawing}\n  D --> F{Abstract UC: Master Drawing}\n  E --> F{Abstract UC: Master Drawing}\n\n\n\n\n\n\n\n\nSee also “13 Types of Drawing Styles for Artistic Careers” at https://www.indeed.com/career-advice/career-development/types-of-drawing"
-  },
-  {
-    "objectID": "line-drawing.html",
-    "href": "line-drawing.html",
-    "title": "Line Drawing",
-    "section": "",
-    "text": "About this site"
+    "text": "Table of contents\n\nLearning Drawing - Use Cases"
   }
 ]
